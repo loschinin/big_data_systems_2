@@ -1,0 +1,11 @@
+/venv/
+/data/source/profit_table.csv
+/data/result/flags_activity.csv
+/airflow.db
+/docker-compose.yaml
+/Miniconda3-latest-MacOSX-arm64.sh
+/webserver_config.py
+/logs/
+/.idea/
+/__pycache__/
+/dags/__pycache__/
